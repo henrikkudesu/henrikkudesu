@@ -20,3 +20,5 @@ I'm currently studying *Systems Analysis and Development* at Universidade Paulis
 - Currently learning C, C ++, C#, web development and software engineering.
 - I really want to learn game development, data science and music. I hope I have enough time for that someday.
 - Find me on Discord: Leo#4860
+
+![Número de Visitas: ](https://profile-counter.glitch.me/henrikkudesu/count.svg)
