@@ -21,4 +21,4 @@ I'm currently studying *Systems Analysis and Development* at Universidade Paulis
 - I really want to learn game development, data science and music. I hope I have enough time for that someday.
 - Find me on Discord: Leo#4860
 
-![Visitas: ](https://komarev.com/ghpvc/?username=henrikkudesu)
+![](https://komarev.com/ghpvc/?username=henrikkudesu)
