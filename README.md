@@ -1,8 +1,19 @@
-### Hi there 👋
+I am an IT student, currently halfway through my degree (3/6 semester), expanding my knowledge in both back-end and front-end development. My experience comes from personal projects and volunteer work, where I’ve been able to apply and refine my skills in real-world scenarios. My goal is to continuously improve as a developer, explore new technologies, and build creative projects.
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=henrikkudesu)](https://git.io/streak-stats)
+📚 I’m currently learning:
 
+- React
+- TypeScript
+- TailwindCSS
+- SQL
+
+🚀 I’m eager to collaborate on new projects and contribute to meaningful ideas.
+
+✔ Feel free to ask me anything! I enjoy helping others and sharing knowledge.
+
+🎮 Outside of tech, I love playing video games, reading fantasy books, exploring sociology and geopolitics, learning about China, and appreciating art.
+
+📫 Reach out to me at: <a href="mailto:leo_hns@hotmail.com">leo_hns@hotmail.com</a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -18,5 +29,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
 </div>
+
+<br>
 
 ![](https://komarev.com/ghpvc/?username=henrikkudesu)
