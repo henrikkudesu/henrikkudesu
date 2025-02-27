@@ -1,4 +1,4 @@
-I am an IT student, currently halfway through my degree (3/6 semester), expanding my knowledge in both back-end and front-end development. My experience comes from personal projects and volunteer work, where I’ve been able to apply and refine my skills in real-world scenarios. My goal is to continuously improve as a developer, explore new technologies, and build creative projects.
+IT student, currently halfway through my degree (3/6 semester), expanding my knowledge in both back-end and front-end development. My experience comes from personal projects and volunteer work, where I’ve been able to apply and refine my skills in real-world scenarios.
 
 📚 I’m currently learning:
 
@@ -9,9 +9,7 @@ I am an IT student, currently halfway through my degree (3/6 semester), expandin
 
 🚀 I’m eager to collaborate on new projects and contribute to meaningful ideas.
 
-✔ Feel free to ask me anything! I enjoy helping others and sharing knowledge.
-
-🎮 Outside of tech, I love playing video games, reading fantasy books, exploring sociology and geopolitics, learning about China, and appreciating art.
+🎮 Outside of tech, I love playing video games, reading fantasy books, exploring sociology and geopolitics, learning about China and the West, and appreciating art.
 
 📫 Reach out to me at: <a href="mailto:leo_hns@hotmail.com">leo_hns@hotmail.com</a>
 
