@@ -9,7 +9,7 @@ IT student, currently halfway through my degree (3/6 semester), expanding my kno
 
 🚀 I’m eager to collaborate on new projects and contribute to meaningful ideas.
 
-🎮 Outside of tech, I love playing video games, reading fantasy books, exploring sociology and geopolitics, learning about China and the West, and appreciating art.
+🎮 Outside of tech, I love playing video games, reading fantasy books, exploring sociology and geopolitics, learning about China and the East, and appreciating art.
 
 📫 Reach out to me at: <a href="mailto:leo_hns@hotmail.com">leo_hns@hotmail.com</a>
 
