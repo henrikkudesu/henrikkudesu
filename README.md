@@ -1,15 +1,10 @@
-IT student, currently halfway through my degree (3/6 semester), expanding my knowledge in both back-end and front-end development. My experience comes from personal projects and volunteer work, where I’ve been able to apply and refine my skills in real-world scenarios.
+I study programming as a hobby, though sometimes I feel like I take it a bit too seriously. I have a certain affinity for JavaScript, Python (mainly FastAPI and Flask), as well as SQL and Linux. At the moment, I know a bit of React, Next.js, Node.js, and Express.js, and I’m currently studying Angular. I also make a point of aligning my code with Clean Code principles, and I really enjoy refactoring and modularizing everything I work on.
 
-📚 I’m currently learning:
+Right now, I’m diving deeper into Object-Oriented Programming, Functional Programming, and SQL.
 
-- React
-- TypeScript
-- TailwindCSS
-- SQL
+I have a special passion for the C programming language, which played a huge role in strengthening my logical thinking.
 
-🚀 I’m eager to collaborate on new projects and contribute to meaningful ideas.
-
-🎮 Outside of tech, I love playing video games, reading fantasy books, exploring sociology and geopolitics, learning about China and the East, and appreciating art.
+Besides that, I enjoy books, games, and, of course, programming. In the end, I like to study a little bit of everything.
 
 📫 Reach out to me at: <a href="mailto:leo_hns@hotmail.com">leo_hns@hotmail.com</a>
 
@@ -18,15 +13,14 @@ IT student, currently halfway through my degree (3/6 semester), expanding my kno
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
 </div>
 
 <br>
