@@ -1,28 +1,21 @@
-I study programming as a hobby, though sometimes I feel like I take it a bit too seriously. I have a certain affinity for JavaScript, Python (mainly FastAPI and Flask), as well as SQL and Linux. At the moment, I know a bit of React, Next.js, Node.js, and Express.js, and I’m currently studying Angular. I also make a point of aligning my code with Clean Code principles, and I really enjoy refactoring and modularizing everything I work on.
+Sometimes I approach programming as a hobby. I like to code simply and minimally. I'm a big fan of older languages, like C. Not such a big fan of LLMs, but I always use them for accelerated learning.
 
-Right now, I’m diving deeper into Object-Oriented Programming, Functional Programming, and SQL.
+Currently, I'm part of an IT technician team at T-Systems where I'm responsible for providing support for the Volkswagen production system at the Taubaté plant in São Paulo.
 
-I have a special passion for the C programming language, which played a huge role in strengthening my logical thinking.
+My favorite hobbies include: books, games, weightlifting, and motorcycle trips. And the main one is reading and learning about programming, but I approach it as a hobby, focusing on the joy of learning rather than presenting myself as an expert, which I don’t claim to be.
 
-Besides that, I enjoy books, games, and, of course, programming. In the end, I like to study a little bit of everything.
-
-📫 Reach out to me at: <a href="mailto:leo_hns@hotmail.com">leo_hns@hotmail.com</a>
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
-<br>
+Here are some of the tools and technologies I use:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=henrikkudesu)
